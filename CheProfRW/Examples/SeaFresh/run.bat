@@ -1,2 +1,2 @@
-"..\..\x64\Release\CheProfReadWrite.exe"
+"..\..\CheProfReadWrite.exe"
 pause
