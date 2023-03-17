@@ -1,2 +1,2 @@
-"..\..\ChemMix\x64\Release\ChemMix.exe"
+"..\..\ChemMix.exe"
 pause
