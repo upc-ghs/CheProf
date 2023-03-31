@@ -1,5 +1,5 @@
 # CheProf
-The repository contains 4 executables for window (64 bits) with examples. 
+The repository contains 4 executables for Windows (64 bits) with examples. 
 
 - CheProfReadWrite: It can read output files of Phreeqc and writes it in xml format for CheProf.
 - ChemMix: It calculates the chemistry when two end members are mixed.
