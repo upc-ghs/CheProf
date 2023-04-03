@@ -4,6 +4,7 @@ CheProf (CHEmical PRocesses Object-oriented with Fortran2003) is a platform for 
 - ChemMix: It calculates the chemistry when two end members are mixed.
 - ReTra1D: It calculates reactive transport in a 1D domain with uniform flow, using the Direct Substitution Apporach.
 - WMA1D: It calculates reactive transport in a 1D domain with uniform flow, using the Water Mixing Apporach.
+
 For additional details about the input files we refer to the [Documentation](Documentation.pdf).
 
 By downloading CheProf.zip and extracting the files the executables can be used directly. Each executable (CheProfReadWrite, ChemMix, ReTra1D, WMA1D) has a folder with one or more examples. Each example contains XML input file and a batch file "run.bat". Double clicking on "run.bat" executes the executable.
